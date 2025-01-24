@@ -29,7 +29,7 @@ This project contains various scripts and data files related to the analysis of 
 
 ### 4. `titanic.html`
 
-- **Description**: An exported HTML version of one of the Jupyter Notebooks, likely containing EDA or analysis results.
+- **Description**: An exported HTML version of the EDA
 - **Usage**: A read-only file for sharing or presenting the findings without requiring a Jupyter environment.
 
 ### 5. `run_gurobi.py`
@@ -68,12 +68,4 @@ This project contains various scripts and data files related to the analysis of 
 - Ensure that all dependencies are properly installed before running the scripts.
 - The `titanic.csv` dataset is the foundation for all analyses; do not modify it unless absolutely necessary.
 
-## Suggestions
-
-- Rename `titanic.ipynb` to `titanic_analysis.ipynb` for better clarity.
-- Document profiling or configuration files (e.g., `pdf.code-profile`) if applicable.
-
----
-
-Feel free to reach out if you have any questions or need further clarification on the contents of this repository.
 
